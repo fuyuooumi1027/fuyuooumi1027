@@ -1,10 +1,10 @@
-## Welcome to my Github!
+## Welcome to my Github! I'm Fuyu Ooumi.
 
-<p>こんにちは！ 私は熱心なフルスタック ソフトウェア エンジニアです。
+<p>I am a Japanese developer living in Singapore with 10 years of experience in various technical fields as a software engineer. I am bilingual in Japanese and English.
 
 ソフトウェアの設計と開発は常に私の最大の情熱であり、それは効率性の本質を備えてアイデアを現実に変える能力があるからです。 特に、共通のビジョンに向かってチームとしてさまざまな頭脳を使って学び、構築することには目的があり、楽しいと感じます。 テクノロジーを超えられるのは魔法だけだという信念のもと、自分の技術力と創造力を活かしてサービス・商品を提供し、社会の隙間を埋め、より良い世界にしていきたいと思っています。
 
-仕事のことから生活のことまで何でも話したいです！</p>
+I love the economy, financial markets, and technology.</p>
 
 
 ## Core Skills
