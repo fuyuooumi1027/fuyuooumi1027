@@ -25,7 +25,7 @@
   <a href = "mailto:fuyuooumi1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
   <a href = "https://join.skype.com/invite/t3vb6yjMvoK3"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"/></a>
   <a href = "https://join.slack.com/t/fuyusworkspace/shared_invite/zt-27g2ipoxj-J3PecboJxZwOZyVhRjO4Zw"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a>
-  <a href = "https://www.chatwork.com/14zkvvsxbvpf"><img src="https://img.shields.io/badge/-Chatwork-%23333?style=for-the-badge&logo=chatwork&logoColor=green" target="_blank"/></a>
+  <a href = "https://www.chatwork.com/14zkvvsxbvpf"><img src="https://img.shields.io/badge/-Chatwork-%23333?style=for-the-badge&logo=chatwork&logoColor=green" target="_blank"/></a> 
 </p>
 
 ## Languages & Tools
