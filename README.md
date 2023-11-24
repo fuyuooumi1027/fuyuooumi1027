@@ -19,7 +19,7 @@ I love the economy, financial markets, and technology.</p>
 - <b>Languages</b> : JavaScript, TypeScript, C#, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
-## Connect with me
+## Contact
 
 <p align="left">
   <a href = "mailto:fuyuooumi1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
