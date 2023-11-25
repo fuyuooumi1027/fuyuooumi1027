@@ -3,7 +3,7 @@
 <p>I am a Japanese developer living in Singapore with 10 years of experience in various technical fields as a software engineer. I am bilingual in Japanese and English.
 
 Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. With the belief that only magic can surpass technology, I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.
-
+ 
 I love the economy, financial markets, and technology.</p>
 
 
